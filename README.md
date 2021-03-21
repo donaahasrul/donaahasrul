@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donaahasrul
-- 👀 I’m interested in Python AIU, and Networking
+- 👀 I’m interested in Python, AI, and Networking
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Project
 - 📫 How to reach me ...
